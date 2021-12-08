@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/thruan/receitasapp/issues"
   },
-  "homepage": "https://github.com/thruan/receitasapp#readme"
+  "homepage": "https://github.com/thruan/receitasapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
